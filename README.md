@@ -1,4 +1,4 @@
-# avatars
+# Avatars
 
 Use it in Your app!
 
